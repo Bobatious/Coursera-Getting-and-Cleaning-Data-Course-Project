@@ -7,13 +7,17 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 # About the Files
 
-CodeBook.md details data collection process as well as the variable types, data, and definitions
+"CodeBook.md" details data collection process as well as the variable types, data, and definitions
 
-run_analysis.R contains the script that does the following:
-Merges the training and the test sets to create one data set.
-Extracts only the measurements on the mean and standard deviation for each measurement. 
+"run_analysis.R" contains the script that does the following:
+Merges the training and the test sets to create one data set
+
+Extracts only the measurements on the mean and standard deviation for each measurement
+
 Uses descriptive activity names to name the activities in the data set
-Appropriately labels the data set with descriptive variable names. 
-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-tidymaster.txt is the resulting, tidy dataset with the average of each variable for each activity and each subject
+Appropriately labels the data set with descriptive variable names
+
+From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
+
+"tidymaster.txt" is the resulting, tidy dataset with the average of each variable for each activity and each subject
