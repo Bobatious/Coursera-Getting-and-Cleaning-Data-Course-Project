@@ -7,6 +7,8 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 # About the Files
 
+"getdata_dataset.zip" contains the raw zip files
+
 "CodeBook.md" details data collection process as well as the variable types, data, and definitions
 
 "run_analysis.R" contains the script that does the following:
