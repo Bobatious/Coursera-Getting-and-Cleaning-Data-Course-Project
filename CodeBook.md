@@ -1,3 +1,7 @@
+The dataset used in this respository comes from the "Human Activity Recognition Using Smartphones Data Set" found here:
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 Feature Selection 
 =================
 
